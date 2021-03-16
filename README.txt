@@ -3,7 +3,7 @@ Autor: Rivaildo Ferreira
 
 IFSP - Instituto Federal de Educação, Ciências e Tecnologia de São Paulo.
 Campus São Paulo.
-Técnólogo em Análise e Desenvolvimento de Sistemas.
+Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 O projeto é o trabalho final da dsiciplina de Lógica de Programação, que deverá ser entregue como forma de avaliação semestral.
 Trata-se de uma simulação do jogo Roda a Roda, que passa na TV.
