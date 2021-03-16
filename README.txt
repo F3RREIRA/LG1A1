@@ -5,8 +5,9 @@ IFSP - Instituto Federal de Educação, Ciências e Tecnologia de São Paulo.
 Campus São Paulo.
 Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
-O projeto é o trabalho final da dsiciplina de Lógica de Programação, que deverá ser entregue como forma de avaliação semestral.
+O projeto é o trabalho final da disciplina de Lógica de Programação, que deverá ser entregue como forma de avaliação semestral.
 Trata-se de uma simulação do jogo Roda a Roda, que passa na TV.
+
 Assim que o jogo começa, o programa sorteia uma palavra e mostra a pista na tela.
 Na tela, além da pista, deverá aparecer também a identificação de cada jogador, ao todo são três jogadores e quanto, em reais, cada um ganhou até o momento.
 O programa também, mostrará os espaços referentes a palavra sorteada.
