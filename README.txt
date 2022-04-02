@@ -44,4 +44,4 @@ Caso NENHUM dos três jogadores acerte na rodada em que faltarem 3 letras, ou
 menos, para completar a(s) palavra(s), não será declarado vencedor algum e cada
 participante termina o jogo com os respectivos valores obtidos até o momento.
 
-Endereço: https://github.com/F3RREIRA/PFDA1.git
+Endereço: https://github.com/F3RREIRA/LG1A1.git
