@@ -5,13 +5,13 @@
  </h1>
 
 <p align="center">
-  <a href="https://github.com/F3RREIRA/LG1A1/blob/main/README.md#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/LG1A1/blob/main/README.md#%EF%B8%8F-reposit%C3%B3rio">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ifsp">IFSP</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-disciplina">Disciplina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-publicações">Publicações</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-publicação">Publicação</a>&nbsp;&nbsp;&nbsp;
  </p>
  
  <br>
@@ -55,7 +55,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Linguagem C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
 - [Dev C++ IDE](https://www.bloodshed.net/)
 
-## 🌎 Publicações
+## 🌎 Publicação
 
 Para executar e testar as funcionalidades da aplicação, basta fazer o download do repositório, extrair os arquivos e executar o arquivo "roda.exe", que está dentro da pasta "Projeto roda a roda":
 
