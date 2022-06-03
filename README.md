@@ -61,7 +61,7 @@ Para executar e testar as funcionalidades da aplicação, basta fazer o download
 
 <p align="center">
   <a href="https://github.com/F3RREIRA/LG1A1">
-    <img alt="Roda a Roda" title="Roda a Roda" src="preview1.png" width="250px" border-radius="3px">
+    <img alt="Roda a Roda" title="Roda a Roda" src="preview1.png" width="500px" border-radius="3px">
   </a>
   
 ---
