@@ -5,11 +5,11 @@
  </h1>
 
 <p align="center">
-  <a href="https://github.com/F3RREIRA/DW2A4/blob/main/README.md#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/F3RREIRA/LG1A1/blob/main/README.md#-repositório">Repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-ifsp">IFSP</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-curso">Curso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-disciplina">Disciplina</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-publicações">Publicações</a>&nbsp;&nbsp;&nbsp;
  </p>
@@ -38,38 +38,30 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 A disciplina Lógica de Programação I, apresenta as estruturas básicas para manipulação de algoritmos abordando a metodologia estruturada. Este componente curricular desenvolve os conceitos clássicos da programação estruturada como: controle para o fluxo de execução de um programa, as funções para manipulação e abstrações de dados, proporcionando ao aluno o conhecimento das diretrizes e boas práticas de programação que serão utilizadas em outros componentes curriculares.
 
-## 💻 Projetos
+## 💻 Projeto
 
-Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
+O projeto Roda a Roda é o trabalho final da disciplina de Lógica de Programação I, que foi entregue como forma de avaliação semestral.
+Trata-se de uma simulação do jogo Roda a Roda, programa de auditório que passa na TV.
 
-- [dev.finace$](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A4)
-- [Form.dev](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A5)
-- [Pesquisa.Covid](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/A6)
-</p>
+Para acessar o repositório com os códigos fonte do projeto, basta clicar no link abaixo:
 
+- [Roda a Roda](https://github.com/F3RREIRA/LG1A1)
 
 
 ## 🚀 Tecnologias
 
-Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- [Linguagem C](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
+- [Dev C++ IDE](https://www.bloodshed.net/)
 
 ## 🌎 Publicações
 
-Para acessar e testar as funcionalidades das páginas criadas, basta clicar na imagem correspondente:
+Para executar e testar as funcionalidades da aplicação, basta fazer o download do repositório, extrair os arquivos e executar o arquivo "roda.exe", que está dentro da pasta "Projeto roda a roda":
 
 <p align="center">
   <a href="https://f3rreira.github.io/DW2A4/Atividades/A4/">
     <img alt="dev.finances" title="dev.finance$" src="github/preview1.png" width="250px" border-radius="3px">
-  </a>
-  <a href="https://f3rreira.github.io/DW2A4/Atividades/A5">
-    <img alt="Form.dev" title="Form.dev" src="github/preview2.png" width="250px">
-  </a>
-  <a href="https://f3rreira.github.io/DW2A4/Atividades/A6">
-    <img alt="Pesquisa.Covid" title="Pesquisa.Covid" src="github/preview3.png" width="250px">
   </a>
   
 ---
