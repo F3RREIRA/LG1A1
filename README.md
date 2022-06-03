@@ -60,8 +60,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Para executar e testar as funcionalidades da aplicação, basta fazer o download do repositório, extrair os arquivos e executar o arquivo "roda.exe", que está dentro da pasta "Projeto roda a roda":
 
 <p align="center">
-  <a href="https://f3rreira.github.io/DW2A4/Atividades/A4/">
-    <img alt="Roda a Roda" title="dev.finance$" src="preview.png" width="250px" border-radius="3px">
+  <a href="https://github.com/F3RREIRA/LG1A1">
+    <img alt="Roda a Roda" title="Roda a Roda" src="preview1.png" width="250px" border-radius="3px">
   </a>
   
 ---
