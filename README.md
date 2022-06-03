@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://spo.ifsp.edu.br/">
-     <img alt="Logo IFSP" title="Logo IFSP" src="github/logoIFSP.png" width="220px"/>
+     <img alt="Logo IFSP" title="Logo IFSP" src="https://github.com/F3RREIRA/DW2A4/blob/main/github/logoIFSP.png" width="220px"/>
   </a>
  </h1>
 
@@ -41,7 +41,7 @@ A disciplina Lógica de Programação I, apresenta as estruturas básicas para m
 ## 💻 Projeto
 
 O projeto Roda a Roda é o trabalho final da disciplina de Lógica de Programação I, que foi entregue como forma de avaliação semestral.
-Trata-se de uma simulação do jogo Roda a Roda, programa de auditório que passa na TV.
+Trata-se de uma simulação do jogo Roda a Roda, programa de auditório apresentado na TV.
 
 Para acessar o repositório com os códigos fonte do projeto, basta clicar no link abaixo:
 
@@ -67,6 +67,6 @@ Para executar e testar as funcionalidades da aplicação, basta fazer o download
 ---
  <p align="center">
  <a href="https://github.com/F3RREIRA">
-    <img alt="F3RREIRA" title="F3RREIRA" src="github/F3RREIRA.png" width="200px">
+    <img alt="F3RREIRA" title="F3RREIRA" src="https://github.com/F3RREIRA/DW2A4/blob/main/github/F3RREIRA.png" width="200px">
  </a>
  </p>
