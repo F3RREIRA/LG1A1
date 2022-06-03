@@ -61,7 +61,7 @@ Para executar e testar as funcionalidades da aplicação, basta fazer o download
 
 <p align="center">
   <a href="https://f3rreira.github.io/DW2A4/Atividades/A4/">
-    <img alt="dev.finances" title="dev.finance$" src="github/preview1.png" width="250px" border-radius="3px">
+    <img alt="Roda a Roda" title="dev.finance$" src="preview.png" width="250px" border-radius="3px">
   </a>
   
 ---
